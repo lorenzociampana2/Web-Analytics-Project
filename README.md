@@ -1,1 +1,1 @@
-# Web-Analytics-Project
+# Web-Analytics-SQL-Project
